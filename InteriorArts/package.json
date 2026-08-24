@@ -1,9 +1,0 @@
-{
-  "name": "interiorarts",
-  "version": "1.0.0",
-  "private": true,
-  "description": "InteriorArts interior design studio website",
-  "scripts": {
-    "start": "npx serve ."
-  }
-}
