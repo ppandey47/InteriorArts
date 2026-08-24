@@ -4,7 +4,7 @@ A responsive editorial website for InteriorArts, an independent interior archite
 
 ## Run locally
 
-Open `index.html` directly in a browser. The project is intentionally dependency-free and uses remote Unsplash photography plus Google Fonts for its visual assets.
+Run `npm start`, then open `http://localhost:3000`. The server uses GoDaddy's `PORT` environment variable when deployed and serves the site without runtime package downloads. The project uses remote Unsplash photography plus Google Fonts for its visual assets.
 
 ## Included
 

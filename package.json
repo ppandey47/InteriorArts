@@ -4,6 +4,6 @@
   "private": true,
   "description": "InteriorArts interior design studio website",
   "scripts": {
-    "start": "npx serve ."
+    "start": "node server.js"
   }
 }
